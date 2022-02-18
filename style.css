@@ -16,7 +16,7 @@ body {
 
 .gallery {
     padding-bottom: 3em;
-    padding-top: 1em;
+    padding-top: 4.6em;
     padding-left: 3em;
     padding-right: 3em;
 
@@ -48,7 +48,6 @@ body {
 
 .gallery__picture {
     position: relative;
-    cursor: pointer;
     overflow: hidden;
 
     border-radius: 1.5em;
